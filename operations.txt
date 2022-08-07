@@ -1,0 +1,4 @@
+Matrix Operations
+-addition
+-subtraction
+-multiplying by a scalar
